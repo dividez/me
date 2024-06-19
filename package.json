@@ -1,0 +1,32 @@
+{
+  "name": "fe",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "五年前端三年面试",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "start": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "author": "johan",
+  "license": "ISC",
+  "devDependencies": {
+    "@vite-pwa/vitepress": "^0.4.0",
+    "vite": "^5.2.9",
+    "vite-plugin-pwa": "^0.19.8",
+    "vitepress": "latest",
+    "vue": "^3.4.23",
+    "workbox-window": "^7.0.0"
+  },
+  "dependencies": {
+    "fabric-pure-browser": "^5.1.0",
+    "jsdom": "^24.0.0",
+    "markdown-it-mathjax3": "^4.3.2",
+    "ua-parser-js": "1.0.37",
+    "vue-router": "^4.3.1"
+  }
+}
+  
