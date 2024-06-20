@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Jim's Blog"
+  text: "一个程序员的碎碎念"
+  tagline: 后端/web全栈
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 我的过往
+      link: /markdown-main
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 我的能力
+      link: /my-power
 
 features:
   - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: All things in their being are good for something.
   - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Be curious. Read widely. Try new things.
   - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Do the thing what I think that is right.
 ---
 

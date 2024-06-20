@@ -17,7 +17,7 @@ export default defineConfig({
         text: '更多',
         items: [
           { text: '我在北京搬砖的这7年', link: '/markdown-main' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '我的技术栈', link: '/my-power' }
         ]
       }
     ],
