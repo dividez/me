@@ -1,5 +1,9 @@
 # 我的技术栈
 
+| <a href="https://github.com/dividez"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dividez&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/dividez"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dividez&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 ## 个人优势
 
 7年后端经验，2年全栈开发，熟练掌握 java，php，js。
